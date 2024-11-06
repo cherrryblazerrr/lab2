@@ -63,12 +63,16 @@ body, html {
   padding: 10px;
   border: 3px dotted mistyrose;
   border-radius: 25px;
+  width: 20%;
+  text-align: center;
 }
 .itemY {
   background-color: floralwhite;
   padding: 10px;
   border: 3px dotted mistyrose;
   border-radius: 25px;
+  width: 20%;
+  text-align: center;
 
 }
 .image-grid{
