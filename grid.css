@@ -35,6 +35,8 @@ body, html {
   padding-left: 20px;
   padding-top: 50px;
   font-family: cursive;
+  list-style: none;
+  line-height: 40px;
 }
 .item3 {
   grid-column: 1 / 4;
@@ -90,11 +92,6 @@ body, html {
 .image-item {
   flex: 1 1 calc(33.333% - 10px);
   box-sizing: border-box;
-}
-@media (max-width: 768px) {
-  .image-item {
-    flex: 1 1 calc(50% - 10px);
-  }
 }
 a{
   transition: background-color 1s;

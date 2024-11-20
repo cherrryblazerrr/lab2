@@ -59,6 +59,8 @@ body, html {
     padding-left: 20px;
     padding-top: 50px;
     font-family: cursive;
+    list-style: none;
+    line-height: 40px;
   }
 .item5 {
     display: flex;
